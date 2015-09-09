@@ -1,0 +1,15 @@
+{
+  "name": "rge-webportfolio",
+  "version": "1.0.0",
+  "description": "RGE web portfolio for roy.eng.br",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.13.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Roy Gaya Espinoza",
+  "license": "ISC"
+}
