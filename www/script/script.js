@@ -78,7 +78,7 @@ function adjustStyle() {
         width = document.body.clientWidth;
     }
     
-    if (width < 600) {
+    if (width < 700) {
         document.getElementById('cssFile').setAttribute("href", "style/mobile.css");
     } else {
         document.getElementById('cssFile').setAttribute("href", "style/desktop.css");
